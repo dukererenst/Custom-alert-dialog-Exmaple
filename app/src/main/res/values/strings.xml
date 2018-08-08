@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Custom Alert Dialog</string>
+    <string name="show_alert_dialog">Show Alert Dialog</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginbutton">Login</string>
+    <string name="checkboxes_alertdialog">Checkboxes AlertDialog</string>
+    <string name="dialog_title">Items available</string>
+
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+    <string name="get_selected_items">Get Selected Items</string>
+    <string name="radio_button_alert_dialog">Radio Button Alert Dialog</string>
+
+    <string-array name="shopping_item">
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Milk</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Tuna</item>
+        <item>Mushrooms</item>
+    </string-array>
+
+</resources>
